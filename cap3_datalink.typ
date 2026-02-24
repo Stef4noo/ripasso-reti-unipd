@@ -21,7 +21,7 @@ HDLC usa il bit stuffing mentre PPP usa il byte stuffing.
 <sliding-window>
 
 Si tratta di una famiglia di protocolli dove mittente e destinatario permettono di ricevere solo una specifica parte di una sequenza di pacchetti detta finestra. Ogni pacchetto al di fuori di questa finestra viene scartato. La finestra viene fatta \"avanzare\" di uno quando riceve il pacchetto con il numero di sequenza corrispondente al limite inferiore della finestra, permettendo al mittente di inviare una parte successiva del messaggio e così via. Poiché i pacchetti possono arrivare disordinati il destinatario ha un buffer delle stesse dimensioni della finestra. Alcuni esempi di protocollo sono il _go-back-n_ e le _sliding windows_. Viene utilizzato nel protocollo TCP e in vari protocolli a livello data-link. 
-
+Viene utilizzato dal protocollo HDLC (High-level Data Link Control) e da TCP per il flow control.
 == Go-back-N
 <go-back-n>
 
