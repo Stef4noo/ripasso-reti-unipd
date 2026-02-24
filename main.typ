@@ -10,6 +10,8 @@
   )
 
   #place(bottom + left)[
+    #link("https://github.com/Stef4noo/ripasso-reti-unipd")
+
     #emph[Ogni risposta deve contenere: spiegazione (cos'è e dove viene usata), pregi, difetti.]
 
     Con #poco sono indicati gli argomenti visti velocemente
