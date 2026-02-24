@@ -9,4 +9,4 @@ Se volete aggiungere qualche domanda idem, ma andate dritti al punto senza scriv
 - [Installazione `typst`](https://github.com/typst/typst)
 - [Sintassi](https://typst.app/docs/reference/syntax/)
 
-### Per aggiornare il progetto eseguire `typst compile main.typ`.
+### Per aggiornare il PDF eseguire `typst compile main.typ`.
