@@ -12,11 +12,6 @@
   #place(bottom + left)[
     #emph[Ogni risposta deve contenere: spiegazione (cos'è e dove viene usata), pregi, difetti.]
 
-    Nelle risposte, si cerchi di essere il più possibile completi, ma in
-    maniera attinente alla domanda. Le sue valutazioni, comunque, sono
-    abbastanza altalenanti e dipende da come gli gira. Si scrivano cose
-    sensate solo nel contesto d'uso.
-
     Con #poco sono indicati gli argomenti visti velocemente
     nel A.A. 2025-26, con #nuova le domande non presenti in esami precedenti.
 
