@@ -1,7 +1,7 @@
 == Aloha 🏝️
 <aloha>
 
-È un protocollo a contesa limitata, ovvero dove ogni stazione compete
+È un protocollo a contesa, ovvero dove ogni stazione compete
 per un canale condiviso dove possono esserci collisioni. Ogni stazione
 tenta di inviare il proprio pacchetto ad una stazione centrale, che
 periodicamente fa il broadcast di tutti i pacchetti ricevuti. In questo
